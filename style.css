@@ -292,3 +292,15 @@ body {
 .resume .resume_right .resume_hobby ul li:last-child:before{
   display: none;
 }
+
+/* ipad pro view */
+@media only screen and (max-width: 1023px){
+	body {
+		font-size: 12px;
+		line-height: 20px;
+	}
+	
+	.resume .resume_left {
+		width: 250px;
+	}
+}
