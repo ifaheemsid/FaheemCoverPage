@@ -71,6 +71,11 @@ body {
   border-bottom: 2px solid #bleaff;
 }
 
+.web-link{
+	font-size: 11px;
+	
+}
+
 .resume .resume_left .resume_item:last-child,
 .resume .resume_right .resume_item:last-child {
   border-bottom: 0px;
