@@ -220,7 +220,7 @@ body {
   top: 14px;
   left: -21px;
   width: 3px;
-  height: 170px;
+  height: 175px;
   background: #0bb5f4;
 }
 .resume .resume_right .resume_work .pin-2:after{
@@ -229,7 +229,7 @@ body {
   top: 14px;
   left: -21px;
   width: 3px;
-  height: 130px;
+  height: 150px;
   background: #0bb5f4;
 }
 
@@ -239,7 +239,7 @@ body {
   top: 14px;
   left: -21px;
   width: 3px;
-  height: 150px;
+  height: 120px;
   background: #0bb5f4;
 }
 
@@ -291,16 +291,4 @@ body {
 /* for hiding the last circle LINE*/
 .resume .resume_right .resume_hobby ul li:last-child:before{
   display: none;
-}
-
-/* ipad pro view */
-@media only screen and (max-width: 1023px){
-	body {
-		font-size: 12px;
-		line-height: 20px;
-	}
-	
-	.resume .resume_left {
-		width: 250px;
-	}
 }
