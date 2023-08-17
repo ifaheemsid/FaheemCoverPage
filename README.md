@@ -1,4 +1,4 @@
-##About Me:
+#About Me:
 I am a passionate and dedicated MCA graduate with a strong interest in software development, data analysis, and problem-solving. Throughout my academic journey, I have gained valuable insights into various programming languages, software engineering practices, and project management techniques.
 
 ##Projects
