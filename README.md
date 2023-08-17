@@ -1,4 +1,4 @@
-#About Me:#
+About Me
 I am a passionate and dedicated MCA graduate with a strong interest in software development, data analysis, and problem-solving. Throughout my academic journey, I have gained valuable insights into various programming languages, software engineering practices, and project management techniques.
 
 *Projects*
@@ -24,7 +24,8 @@ Version Control: GitHub.
 I'm open to collaborations, job opportunities, or just having a chat about technology! Feel free to reach out to me through the following channels:
 
 Email: akhterf04@gmail.com
-LinkedIn: [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/ifaheemsid/)
+LinkedIn: https://www.linkedin.com/in/ifaheemsid/
+
 Get in Touch
 If you have any questions about the projects, want to collaborate, or have feedback, please don't hesitate to get in touch. I'm excited to connect with fellow developers, and potential employers!
 
