@@ -1,7 +1,7 @@
-#About Me:
+#About Me:#
 I am a passionate and dedicated MCA graduate with a strong interest in software development, data analysis, and problem-solving. Throughout my academic journey, I have gained valuable insights into various programming languages, software engineering practices, and project management techniques.
 
-##Projects
+*Projects*
 Project 1: OmniFood
 Description: Designed an online food delivery website. This is a project that I made for a fictional company Omnifood. It is made using latest web technologies HTML5, CSS3, and jQuery. It is modern looking website and also it is responsive which looks great on all devices.
 Tech Stack: HTML5, CSS & jQuery.
@@ -14,7 +14,7 @@ Description: Designed an Quote generator website using an API to build a random 
 
 Tech Stack: HTML, CSS, JavaScript and REST.api
 Role: Developer.
-Link: [ Provide a link to the project repository or live demo (if applicable)](https://ifaheemsid.github.io/Thoughts-Generator/).
+Link: https://ifaheemsid.github.io/Thoughts-Generator/
 
 Skills
 Programming Languages: Python+Django, Java, JavaScript, C language, SQL, Web Technologies.
