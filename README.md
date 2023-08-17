@@ -1,22 +1,25 @@
-About Me :-
+**About Me :**
+
 I am a passionate and dedicated MCA graduate with a strong interest in software development, data analysis, and problem-solving. Throughout my academic journey, I have gained valuable insights into various programming languages, software engineering practices, and project management techniques.
 
-*Projects*
-Project 1: OmniFood
-Description: Designed an online food delivery website. This is a project that I made for a fictional company Omnifood. It is made using latest web technologies HTML5, CSS3, and jQuery. It is modern looking website and also it is responsive which looks great on all devices.
-Tech Stack: HTML5, CSS & jQuery.
-Role: developer & designer.
-Link: https://ifaheemsid.github.io/FaheemCoverPage/
+**Projects**
+
+**Project 1: OmniFood**
+
+**Description:** Designed an online food delivery website. This is a project that I made for a fictional company Omnifood. It is made using latest web technologies HTML5, CSS3, and jQuery. It is modern looking website and also it is responsive which looks great on all devices.
+**Tech Stack:** HTML5, CSS & jQuery.
+**Role:** developer & designer.
+**Link:** https://ifaheemsid.github.io/FaheemCoverPage/
 
 **Project 2: Thought generator.**
 
-Description: Designed an Quote generator website using an API to build a random quote generator with twitter integration.you can post that quote in twitter by just clicking post to twitter button.
+**Description:** Designed an Quote generator website using an API to build a random quote generator with twitter integration.you can post that quote in twitter by just clicking post to twitter button.
 
-Tech Stack: HTML, CSS, JavaScript and REST.api
-Role: Developer.
-Link: https://ifaheemsid.github.io/Thoughts-Generator/
+**Tech Stack:** HTML, CSS, JavaScript and REST.api
+**Role:** Developer.
+**Link:** https://ifaheemsid.github.io/Thoughts-Generator/
 
-Skills
+**Skills** 
 Programming Languages: Python+Django, Java, JavaScript, C language, SQL, Web Technologies.
 Web Development: HTML/CSS & Django.
 Version Control: GitHub.
