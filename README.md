@@ -2,11 +2,10 @@
 
 I am a passionate and dedicated MCA graduate with a strong interest in software development, data analysis, and problem-solving. Throughout my academic journey, I have gained valuable insights into various programming languages, software engineering practices, and project management techniques.
 
-**Projects**
-
 **Project 1: OmniFood**
 
 **Description:** Designed an online food delivery website. This is a project that I made for a fictional company Omnifood. It is made using latest web technologies HTML5, CSS3, and jQuery. It is modern looking website and also it is responsive which looks great on all devices.
+
 **Tech Stack:** HTML5, CSS & jQuery.
 **Role:** developer & designer.
 **Link:** https://ifaheemsid.github.io/FaheemCoverPage/
